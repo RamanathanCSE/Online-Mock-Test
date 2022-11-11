@@ -1,0 +1,7 @@
+Introduction :
+    Online test is specifically designed for instant result. As the Internet continues to develop, it becomes clear that the medium has different requirement. In Online Test, testing could be scheduled when it is convenient for the student, which also encourages students to increase the time management skills. With high demands in technologies for the purpose of student assessment and on curriculum coverage within the classroom, teachers are in need often efficient manner in which to conduct non teaching activities without lessening their impact .
+One such activity includes test administration. To overcome this online test is the best method. so in order to help them, we come up withe idea of " the online mock test". 
+Online mock system can be implemented in colleges, universities or at home to check the preparation of students and revise contents of different courses. 
+It saves time as it allows number of students to give the exam at a time and displays the results as the test gets over, so no need to wait for the result. the students from current society dreams for government jobs ,which make them to participate in government exam's. But the individual's doesn't have any prior practice, idea about questions, how to prepare for exams and other’s. It provides a competitive platform, where a student not only judges their knowledge/skill but also they can improve their knowledge/skill at the same time. 
+
+
